@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    // test branch commit
+    // test2 branch commit
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
